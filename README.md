@@ -1,4 +1,4 @@
-# "WeRateDogs 
+# "WeRateDogs" 
 if you love dogs, surely you heard about “WeRateDogs”. WeRateDogs is one of famous pages on
 twitter that rates people’s dogs with funny comments , the dominator rate is 10, but the nominator is
 alwayas greater than 10 ,why? Becaue “they’re good dogs Brent”.
